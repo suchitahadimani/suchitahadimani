@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @suchitahadimani
-- 👀 I’m interested in CS
-- 🌱 I’m currently learning CS
-- 💞️ I’m looking to collaborate on CS
-- 📫 How to reach me suchita.careers@gmail.com
+- 👀 I’m interested in CS amongst many things
+- 🌱 I’m currently learning embedded systems and ui/ux
+- 💞️ I’m looking to collaborate on CS projects
+- 📫 How to reach me shadiman@gmu.edu
 - ⚡ Fun fact: My fav color is purple
 
 <!---
